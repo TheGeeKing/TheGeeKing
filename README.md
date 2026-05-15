@@ -28,7 +28,11 @@ Je développe des applications web et je self-host des services parce que j’ai
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheGeeKing/TheGeeKing/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=TheGeeKing&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img
+    src="https://raw.githubusercontent.com/TheGeeKing/TheGeeKing/streak-output/streak.svg"
+    height="150"
+    alt="streak graph"
+  />
   <img src="https://raw.githubusercontent.com/TheGeeKing/TheGeeKing/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
