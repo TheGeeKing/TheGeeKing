@@ -24,7 +24,7 @@ Je développe des applications web et je self-host des services parce que j’ai
 - infrastructure reproductible
 - LLMs locaux
 
-## GitHub
+## Statistiques
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/TheGeeKing/TheGeeKing/stats-output/stats.svg" height="150" alt="stats graph"  />
@@ -32,8 +32,10 @@ Je développe des applications web et je self-host des services parce que j’ai
   <img src="https://raw.githubusercontent.com/TheGeeKing/TheGeeKing/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
-[🔗 Portfolio](https://portfolio.mma.dev)
-[🔗 LinkedIn](https://linkedin.com/in/mma--)
+## En savoir plus sur moi
+<a href="https://portfolio.mma.dev">🔗 Portfolio</a>
+•
+<a href="https://linkedin.com/in/mma--">🔗 LinkedIn</a>
 
 <!--
 **TheGeeKing/TheGeeKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
