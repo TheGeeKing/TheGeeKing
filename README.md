@@ -37,7 +37,7 @@ Je développe des applications web et je self-host des services parce que j’ai
 </div>
 
 ## En savoir plus sur moi
-<a href="https://portfolio.mma.dev">🔗 Portfolio</a>
+<a href="https://mma.dev">🔗 Portfolio</a>
 •
 <a href="https://linkedin.com/in/mma--">🔗 LinkedIn</a>
 
