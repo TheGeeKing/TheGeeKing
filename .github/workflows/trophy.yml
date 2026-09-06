@@ -17,13 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
+    # https://github.com/ryo-ma/github-profile-trophy
     steps:
       - name: Generate trophy.svg
         run: |
           mkdir -p dist
 
           curl -L \
-            "https://trophy.benkou.dev/?username=${{ github.repository_owner }}&theme=dracula&title=MultiLanguage,Repositories,Commits,PullRequest,Experience,Issues,Reviews&column=-1&no-frame=true&no-bg=true" \
+            "https://github-profile-trophy-unserori.vercel.app/?username=${{ github.repository_owner }}&theme=dracula&title=MultiLanguage,Repositories,Commits,PullRequest,Experience,Issues,Reviews&column=-1&no-frame=true&no-bg=true" \
             -o dist/trophy.svg
 
       - name: Push trophy.svg to output branch
